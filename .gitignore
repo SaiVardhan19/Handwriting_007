@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets and checkpoints
+data/
+checkpoints/
+
+# Kaggle / Colab artifacts
+*.ipynb_checkpoints
+kaggle/
+colab/
+
+# Environment files
+.env
+venv/
