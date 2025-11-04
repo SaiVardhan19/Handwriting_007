@@ -14,3 +14,4 @@ This project trains a Conditional GAN (cGAN) to generate realistic handwritten n
 python src/train.py
 # Handwriting_001
 # Handwriting_007
+# Handwriting_007
